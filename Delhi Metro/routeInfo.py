@@ -15,7 +15,7 @@ r.append("Interchanges")
 r.append("Normal Fare")
 r.append("Concessional Fare(Sunday and national holiday)")
 
-with open("routeInfo.csv", "a", newline='') as writeFile:
+with open("DelhiRouteInfo.csv", "a", newline='') as writeFile:
     f = csv.writer(writeFile)
     f.writerow([r[0]] + [r[1]] + [r[2]] + [r[3]] + [r[4]] + [r[5]] + [r[6]] + [r[7]])
     writeFile.close()
@@ -28,7 +28,7 @@ for i in range(168, len(v)):
     for j in range(0, len(v)):
         if i == j:
             continue
-        writeFile = open("routeInfo.csv", "a", newline='')
+        writeFile = open("DelhiRouteInfo.csv", "a", newline='')
         try:
             driver.find_element_by_id("ctl00_MainContent_ddlFromStation").send_keys(v[i])
             driver.find_element_by_id("ctl00_MainContent_ddlToStation").send_keys(v[j])
