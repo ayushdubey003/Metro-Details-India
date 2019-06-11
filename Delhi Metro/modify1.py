@@ -11,16 +11,9 @@ f.writerow([r[0]])
 
 for i in range(1, len(l)):
     v = l[i].split(",")
-    route = v[4].split(":")
-    colors = v[8].split(":")
-    newRoute = colors[0] + "@" + route[0] + ":"
-    curr = 0
-    for j in range(1, len(route)):
-        if route[j].find("<") >= 0:
-            curr = curr + 1
-            newRoute = newRoute + route[j] + ";" + colors[curr] + "@"
-        else:
-            newRoute = newRoute + route[j] + ":"
-    f.writerow([newRoute])
+    route = v[3]
+    route = route.replace("<Change Here>", "")
+    route = route.replace("::", ":")
+    f.writerow([route])
 
 writeFile.close()
