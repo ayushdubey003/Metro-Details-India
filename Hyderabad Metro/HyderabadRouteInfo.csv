@@ -1,0 +1,236 @@
+Source,Destination,Duration,Route,Stations,Interchanges,Normal Fare,Concessional Fare(Sunday and national holiday)
+Ameerpet,Assembly,12 Min,@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,6,0,25,25
+Ameerpet,Balanagar,12 Min,@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,7,0,25,25
+Ameerpet,Begumpet,2 Min,@Red: Ameerpet:;@Blue: Begumpet:,2,1,10,10
+Ameerpet,Bharat Nagar,8 Min,@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,5,0,15,15
+Assembly,Ameerpet,12 Min,@Red: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,6,0,25,25
+Assembly,Balanagar,24 Min,@Red: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,12,0,40,40
+Assembly,Begumpet,14 Min,@Red: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,7,1,30,30
+Assembly,Bharat Nagar,20 Min,@Red: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,10,0,35,35
+Balanagar,Ameerpet,12 Min,@Red: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,7,0,25,25
+Balanagar,Assembly,24 Min,@Red: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,12,0,40,40
+Balanagar,Begumpet,14 Min,@Red: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,8,1,30,30
+Balanagar,Bharat Nagar,4 Min,@Red: Balanagar: Moosapet: Bharat Nagar:,3,0,10,10
+Begumpet,Ameerpet,2 Min,@Blue: Begumpet:;@Red: Ameerpet:,2,1,10,10
+Begumpet,Assembly,14 Min,@Blue: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,7,1,30,30
+Begumpet,Balanagar,14 Min,@Blue: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,8,1,30,30
+Begumpet,Bharat Nagar,10 Min,@Blue: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,6,1,25,25
+Bharat Nagar,Ameerpet,8 Min,@Red: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,5,0,15,15
+Bharat Nagar,Assembly,20 Min,@Red: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,10,0,35,35
+Bharat Nagar,Balanagar,4 Min,@Red: Bharat Nagar: Moosapet: Balanagar:,3,0,10,10
+Bharat Nagar,Begumpet,10 Min,@Red: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,6,1,25,25
+Chaitanyapuri,Ameerpet,31 Min,@Red: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,15,0,45,45
+Chaitanyapuri,Assembly,19 Min,@Red: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,10,0,35,35
+Chaitanyapuri,Balanagar,43 Min,@Red: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,21,0,50,50
+Chaitanyapuri,Begumpet,33 Min,@Red: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,16,1,45,45
+Chaitanyapuri,Bharat Nagar,39 Min,@Red: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,19,0,45,45
+Dilsukhnagar,Ameerpet,29 Min,@Red: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,14,0,40,40
+Dilsukhnagar,Assembly,17 Min,@Red: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,9,0,30,30
+Dilsukhnagar,Balanagar,41 Min,@Red: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,20,0,50,50
+Dilsukhnagar,Begumpet,31 Min,@Red: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,15,1,45,45
+Dilsukhnagar,Bharat Nagar,37 Min,@Red: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,18,0,45,45
+Durgam Chervu,Ameerpet,17 Min,@Blue: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet:,8,0,35,35
+Durgam Chervu,Assembly,29 Min,@Blue: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,13,1,40,40
+Durgam Chervu,Balanagar,29 Min,@Blue: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,14,1,40,40
+Durgam Chervu,Begumpet,19 Min,@Blue: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,9,0,35,35
+Durgam Chervu,Bharat Nagar,25 Min,@Blue: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,12,1,40,40
+Erragadda,Ameerpet,6 Min,@Red: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,4,0,15,15
+Erragadda,Assembly,18 Min,@Red: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,9,0,35,35
+Erragadda,Balanagar,6 Min,@Red: Erragadda: Bharat Nagar: Moosapet: Balanagar:,4,0,15,15
+Erragadda,Begumpet,8 Min,@Red: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,5,1,25,25
+Erragadda,Bharat Nagar,2 Min,@Red: Erragadda: Bharat Nagar:,2,0,10,10
+ESI Hospital,Ameerpet,4 Min,@Red: ESI Hospital: S R Nagar: Ameerpet:,3,0,10,10
+ESI Hospital,Assembly,16 Min,@Red: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,8,0,30,30
+ESI Hospital,Balanagar,8 Min,@Red: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,5,0,15,15
+ESI Hospital,Begumpet,6 Min,@Red: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,4,1,15,15
+ESI Hospital,Bharat Nagar,4 Min,@Red: ESI Hospital: Erragadda: Bharat Nagar:,3,0,15,15
+Gandhi Bhavan,Ameerpet,16 Min,@Red: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,8,0,30,30
+Gandhi Bhavan,Assembly,4 Min,@Red: Gandhi Bhavan: Nampally: Assembly:,3,0,10,10
+Gandhi Bhavan,Balanagar,28 Min,@Red: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,14,0,40,40
+Gandhi Bhavan,Begumpet,18 Min,@Red: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,9,1,35,35
+Gandhi Bhavan,Bharat Nagar,24 Min,@Red: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,12,0,40,40
+Habsiguda,Ameerpet,21 Min,@Blue: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,10,1,40,40
+Habsiguda,Assembly,33 Min,@Blue: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,15,1,50,50
+Habsiguda,Balanagar,33 Min,@Blue: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,16,1,45,45
+Habsiguda,Begumpet,19 Min,@Blue: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,9,0,40,40
+Habsiguda,Bharat Nagar,29 Min,@Blue: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,14,1,45,45
+Hitech City,Ameerpet,19 Min,@Blue: Hitech City: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet:,9,0,35,35
+Hitech City,Assembly,31 Min,@Blue: Hitech City: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,14,1,45,45
+Hitech City,Balanagar,31 Min,@Blue: Hitech City: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,15,1,45,45
+Hitech City,Begumpet,21 Min,@Blue: Hitech City: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,10,0,40,40
+Hitech City,Bharat Nagar,27 Min,@Blue: Hitech City: Durgam Chervu: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,13,1,40,40
+Irrum Manzil,Ameerpet,5 Min,@Red: Irrum Manzil: Punjagutta: Ameerpet:,3,0,15,15
+Irrum Manzil,Assembly,7 Min,@Red: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,4,0,15,15
+Irrum Manzil,Balanagar,17 Min,@Red: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,9,0,30,30
+Irrum Manzil,Begumpet,7 Min,@Red: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,4,1,15,15
+Irrum Manzil,Bharat Nagar,13 Min,@Red: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,7,0,25,25
+JNTU College,Ameerpet,20 Min,@Red: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,10,0,35,35
+JNTU College,Assembly,32 Min,@Red: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,15,0,45,45
+JNTU College,Balanagar,8 Min,@Red: JNTU College: KPHB Colony: Kukatpally: Balanagar:,4,0,25,25
+JNTU College,Begumpet,22 Min,@Red: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,11,1,40,40
+JNTU College,Bharat Nagar,12 Min,@Red: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar:,6,0,30,30
+Jubilee Hills Check Post,Ameerpet,10 Min,@Blue: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet:,5,0,25,25
+Jubilee Hills Check Post,Assembly,22 Min,@Blue: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,10,1,40,40
+Jubilee Hills Check Post,Balanagar,22 Min,@Blue: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,11,1,35,35
+Jubilee Hills Check Post,Begumpet,12 Min,@Blue: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,6,0,30,30
+Jubilee Hills Check Post,Bharat Nagar,18 Min,@Blue: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,9,1,35,35
+Jubilee Hills Road No 5,Ameerpet,7 Min,@Blue: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet:,4,0,15,15
+Jubilee Hills Road No 5,Assembly,19 Min,@Blue: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,9,1,35,35
+Jubilee Hills Road No 5,Balanagar,19 Min,@Blue: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,10,1,35,35
+Jubilee Hills Road No 5,Begumpet,9 Min,@Blue: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,5,0,25,25
+Jubilee Hills Road No 5,Bharat Nagar,15 Min,@Blue: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,8,1,30,30
+Khairatabad,Ameerpet,8 Min,@Red: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,4,0,15,15
+Khairatabad,Assembly,4 Min,@Red: Khairatabad: Lakdikapul: Assembly:,3,0,15,15
+Khairatabad,Balanagar,20 Min,@Red: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,10,0,35,35
+Khairatabad,Begumpet,10 Min,@Red: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,5,1,25,25
+Khairatabad,Bharat Nagar,16 Min,@Red: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,8,0,30,30
+KPHB Colony,Ameerpet,17 Min,@Red: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,9,0,35,35
+KPHB Colony,Assembly,29 Min,@Red: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,14,0,40,40
+KPHB Colony,Balanagar,5 Min,@Red: KPHB Colony: Kukatpally: Balanagar:,3,0,15,15
+KPHB Colony,Begumpet,19 Min,@Red: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,10,1,35,35
+KPHB Colony,Bharat Nagar,9 Min,@Red: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar:,5,0,25,25
+Kukatpally,Ameerpet,14 Min,@Red: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,8,0,30,30
+Kukatpally,Assembly,26 Min,@Red: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,13,0,40,40
+Kukatpally,Balanagar,2 Min,@Red: Kukatpally: Balanagar:,2,0,10,10
+Kukatpally,Begumpet,16 Min,@Red: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,9,1,35,35
+Kukatpally,Bharat Nagar,6 Min,@Red: Kukatpally: Balanagar: Moosapet: Bharat Nagar:,4,0,15,15
+Lakdikapul,Ameerpet,10 Min,@Red: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,5,0,25,25
+Lakdikapul,Assembly,2 Min,@Red: Lakdikapul: Assembly:,2,0,10,10
+Lakdikapul,Balanagar,22 Min,@Red: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,11,0,35,35
+Lakdikapul,Begumpet,12 Min,@Red: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,6,1,30,30
+Lakdikapul,Bharat Nagar,18 Min,@Red: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,9,0,35,35
+LB Nagar,Ameerpet,35 Min,@Red: LB Nagar: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,17,0,45,45
+LB Nagar,Assembly,23 Min,@Red: LB Nagar: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,12,0,40,40
+LB Nagar,Balanagar,47 Min,@Red: LB Nagar: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,23,0,50,50
+LB Nagar,Begumpet,37 Min,@Red: LB Nagar: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,18,1,50,50
+LB Nagar,Bharat Nagar,43 Min,@Red: LB Nagar: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,21,0,50,50
+Madhapur,Ameerpet,14 Min,@Blue: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet:,7,0,30,30
+Madhapur,Assembly,26 Min,@Blue: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,12,1,40,40
+Madhapur,Balanagar,26 Min,@Blue: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,13,1,40,40
+Madhapur,Begumpet,16 Min,@Blue: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,8,0,35,35
+Madhapur,Bharat Nagar,22 Min,@Blue: Madhapur: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,11,1,35,35
+Madhura Nagar,Ameerpet,2 Min,@Blue: Madhura Nagar: Ameerpet:,2,0,10,10
+Madhura Nagar,Assembly,14 Min,@Blue: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,7,1,30,30
+Madhura Nagar,Balanagar,14 Min,@Blue: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,8,1,25,25
+Madhura Nagar,Begumpet,4 Min,@Blue: Madhura Nagar: Ameerpet: Begumpet:,3,0,15,15
+Madhura Nagar,Bharat Nagar,10 Min,@Blue: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,6,1,25,25
+Malakpet,Ameerpet,22 Min,@Red: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,11,0,35,35
+Malakpet,Assembly,10 Min,@Red: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,6,0,25,25
+Malakpet,Balanagar,34 Min,@Red: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,17,0,45,45
+Malakpet,Begumpet,24 Min,@Red: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,12,1,40,40
+Malakpet,Bharat Nagar,30 Min,@Red: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,15,0,40,40
+Mettuguda,Ameerpet,16 Min,@Blue: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,8,1,35,35
+Mettuguda,Assembly,28 Min,@Blue: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,13,1,45,45
+Mettuguda,Balanagar,28 Min,@Blue: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,14,1,45,45
+Mettuguda,Begumpet,14 Min,@Blue: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,7,0,35,35
+Mettuguda,Bharat Nagar,24 Min,@Blue: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,12,1,40,40
+MG Bus station,Ameerpet,20 Min,@Red: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,10,0,35,35
+MG Bus station,Assembly,8 Min,@Red: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,5,0,15,15
+MG Bus station,Balanagar,32 Min,@Red: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,16,0,45,45
+MG Bus station,Begumpet,22 Min,@Red: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,11,1,40,40
+MG Bus station,Bharat Nagar,28 Min,@Red: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,14,0,40,40
+Miyapur,Ameerpet,23 Min,@Red: Miyapur: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,11,0,40,40
+Miyapur,Assembly,35 Min,@Red: Miyapur: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,16,0,45,45
+Miyapur,Balanagar,11 Min,@Red: Miyapur: JNTU College: KPHB Colony: Kukatpally: Balanagar:,5,0,30,30
+Miyapur,Begumpet,25 Min,@Red: Miyapur: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,12,1,40,40
+Miyapur,Bharat Nagar,15 Min,@Red: Miyapur: JNTU College: KPHB Colony: Kukatpally: Balanagar: Moosapet: Bharat Nagar:,7,0,30,30
+Moosapet,Ameerpet,10 Min,@Red: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:,6,0,25,25
+Moosapet,Assembly,22 Min,@Red: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,11,0,40,40
+Moosapet,Balanagar,2 Min,@Red: Moosapet: Balanagar:,2,0,10,10
+Moosapet,Begumpet,12 Min,@Red: Moosapet: Bharat Nagar: Erragadda: ESI Hospital: S R Nagar: Ameerpet:;@Blue: Begumpet:,7,1,30,30
+Moosapet,Bharat Nagar,2 Min,@Red: Moosapet: Bharat Nagar:,2,0,10,10
+Musarambagh,Ameerpet,26 Min,@Red: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,13,0,40,40
+Musarambagh,Assembly,14 Min,@Red: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,8,0,25,25
+Musarambagh,Balanagar,38 Min,@Red: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,19,0,45,45
+Musarambagh,Begumpet,28 Min,@Red: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,14,1,40,40
+Musarambagh,Bharat Nagar,34 Min,@Red: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,17,0,45,45
+Nagole,Ameerpet,29 Min,@Blue: Nagole: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,14,1,45,45
+Nagole,Assembly,41 Min,@Blue: Nagole: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,19,1,55,55
+Nagole,Balanagar,41 Min,@Blue: Nagole: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,20,1,55,55
+Nagole,Begumpet,27 Min,@Blue: Nagole: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,13,0,45,45
+Nagole,Bharat Nagar,37 Min,@Blue: Nagole: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,18,1,50,50
+Nampally,Ameerpet,14 Min,@Red: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,7,0,30,30
+Nampally,Assembly,2 Min,@Red: Nampally: Assembly:,2,0,10,10
+Nampally,Balanagar,26 Min,@Red: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,13,0,40,40
+Nampally,Begumpet,16 Min,@Red: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,8,1,35,35
+Nampally,Bharat Nagar,22 Min,@Red: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,11,0,40,40
+New Market,Ameerpet,24 Min,@Red: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,12,0,40,40
+New Market,Assembly,12 Min,@Red: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,7,0,25,25
+New Market,Balanagar,36 Min,@Red: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,18,0,45,45
+New Market,Begumpet,26 Min,@Red: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,13,1,40,40
+New Market,Bharat Nagar,32 Min,@Red: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,16,0,45,45
+NGRI,Ameerpet,23 Min,@Blue: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,11,1,40,40
+NGRI,Assembly,35 Min,@Blue: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,16,1,50,50
+NGRI,Balanagar,35 Min,@Blue: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,17,1,50,50
+NGRI,Begumpet,21 Min,@Blue: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,10,0,40,40
+NGRI,Bharat Nagar,31 Min,@Blue: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,15,1,45,45
+Osmania Medical College,Ameerpet,18 Min,@Red: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,9,0,35,35
+Osmania Medical College,Assembly,6 Min,@Red: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,4,0,15,15
+Osmania Medical College,Balanagar,30 Min,@Red: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,15,0,40,40
+Osmania Medical College,Begumpet,20 Min,@Red: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,10,1,35,35
+Osmania Medical College,Bharat Nagar,26 Min,@Red: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,13,0,40,40
+Parade Grounds,Ameerpet,10 Min,@Blue: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,6,1,30,30
+Parade Grounds,Assembly,22 Min,@Blue: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,11,1,40,40
+Parade Grounds,Balanagar,22 Min,@Blue: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,12,1,40,40
+Parade Grounds,Begumpet,8 Min,@Blue: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,5,0,25,25
+Parade Grounds,Bharat Nagar,18 Min,@Blue: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,10,1,35,35
+Paradise,Ameerpet,8 Min,@Blue: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,5,1,25,25
+Paradise,Assembly,20 Min,@Blue: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,10,1,40,40
+Paradise,Balanagar,20 Min,@Blue: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,11,1,40,40
+Paradise,Begumpet,6 Min,@Blue: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,4,0,15,15
+Paradise,Bharat Nagar,16 Min,@Blue: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,9,1,35,35
+Pedamma Temple,Ameerpet,12 Min,@Blue: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet:,6,0,25,25
+Pedamma Temple,Assembly,24 Min,@Blue: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,11,1,40,40
+Pedamma Temple,Balanagar,24 Min,@Blue: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,12,1,40,40
+Pedamma Temple,Begumpet,14 Min,@Blue: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,7,0,30,30
+Pedamma Temple,Bharat Nagar,20 Min,@Blue: Pedamma Temple: Jubilee Hills Check Post: Jubilee Hills Road No 5: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,10,1,35,35
+Prakash Nagar,Ameerpet,4 Min,@Blue: Prakash Nagar: Begumpet:;@Red: Ameerpet:,3,1,15,15
+Prakash Nagar,Assembly,16 Min,@Blue: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,8,1,35,35
+Prakash Nagar,Balanagar,16 Min,@Blue: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,9,1,35,35
+Prakash Nagar,Begumpet,2 Min,@Blue: Prakash Nagar: Begumpet:,2,0,10,10
+Prakash Nagar,Bharat Nagar,12 Min,@Blue: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,7,1,30,30
+Punjagutta,Ameerpet,3 Min,@Red: Punjagutta: Ameerpet:,2,0,10,10
+Punjagutta,Assembly,9 Min,@Red: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,5,0,25,25
+Punjagutta,Balanagar,15 Min,@Red: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,8,0,30,30
+Punjagutta,Begumpet,5 Min,@Red: Punjagutta: Ameerpet:;@Blue: Begumpet:,3,1,15,15
+Punjagutta,Bharat Nagar,11 Min,@Red: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,6,0,25,25
+Rasool Pura,Ameerpet,6 Min,@Blue: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,4,1,25,25
+Rasool Pura,Assembly,18 Min,@Blue: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,9,1,35,35
+Rasool Pura,Balanagar,18 Min,@Blue: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,10,1,35,35
+Rasool Pura,Begumpet,4 Min,@Blue: Rasool Pura: Prakash Nagar: Begumpet:,3,0,15,15
+Rasool Pura,Bharat Nagar,14 Min,@Blue: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,8,1,30,30
+S R Nagar,Ameerpet,2 Min,@Red: S R Nagar: Ameerpet:,2,0,10,10
+S R Nagar,Assembly,14 Min,@Red: S R Nagar: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,7,0,30,30
+S R Nagar,Balanagar,10 Min,@Red: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,6,0,25,25
+S R Nagar,Begumpet,4 Min,@Red: S R Nagar: Ameerpet:;@Blue: Begumpet:,3,1,15,15
+S R Nagar,Bharat Nagar,6 Min,@Red: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,4,0,15,15
+Secunderabad,Ameerpet,13 Min,@Blue: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,7,1,30,30
+Secunderabad,Assembly,25 Min,@Blue: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,12,1,40,40
+Secunderabad,Balanagar,25 Min,@Blue: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,13,1,40,40
+Secunderabad,Begumpet,11 Min,@Blue: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,6,0,30,30
+Secunderabad,Bharat Nagar,21 Min,@Blue: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,11,1,40,40
+Tarnaka,Ameerpet,18 Min,@Blue: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,9,1,40,40
+Tarnaka,Assembly,30 Min,@Blue: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,14,1,45,45
+Tarnaka,Balanagar,30 Min,@Blue: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,15,1,45,45
+Tarnaka,Begumpet,16 Min,@Blue: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,8,0,35,35
+Tarnaka,Bharat Nagar,26 Min,@Blue: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,13,1,45,45
+Uppal,Ameerpet,27 Min,@Blue: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,13,1,45,45
+Uppal,Assembly,39 Min,@Blue: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,18,1,50,50
+Uppal,Balanagar,39 Min,@Blue: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,19,1,50,50
+Uppal,Begumpet,25 Min,@Blue: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,12,0,45,45
+Uppal,Bharat Nagar,35 Min,@Blue: Uppal: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,17,1,50,50
+Uppal Stadium,Ameerpet,25 Min,@Blue: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet:,12,1,45,45
+Uppal Stadium,Assembly,37 Min,@Blue: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,17,1,50,50
+Uppal Stadium,Balanagar,37 Min,@Blue: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,18,1,50,50
+Uppal Stadium,Begumpet,23 Min,@Blue: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:,11,0,40,40
+Uppal Stadium,Bharat Nagar,33 Min,@Blue: Uppal Stadium: NGRI: Habsiguda: Tarnaka: Mettuguda: Secunderabad: Parade Grounds: Paradise: Rasool Pura: Prakash Nagar: Begumpet:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,16,1,50,50
+Victoria Memorial,Ameerpet,33 Min,@Red: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:,16,0,45,45
+Victoria Memorial,Assembly,21 Min,@Red: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly:,11,0,35,35
+Victoria Memorial,Balanagar,45 Min,@Red: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,22,0,50,50
+Victoria Memorial,Begumpet,35 Min,@Red: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet:;@Blue: Begumpet:,17,1,45,45
+Victoria Memorial,Bharat Nagar,41 Min,@Red: Victoria Memorial: Chaitanyapuri: Dilsukhnagar: Musarambagh: New Market: Malakpet: MG Bus station: Osmania Medical College: Gandhi Bhavan: Nampally: Assembly: Lakdikapul: Khairatabad: Irrum Manzil: Punjagutta: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,20,0,50,50
+Yusuf Guda,Ameerpet,5 Min,@Blue: Yusuf Guda: Madhura Nagar: Ameerpet:,3,0,15,15
+Yusuf Guda,Assembly,17 Min,@Blue: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: Punjagutta: Irrum Manzil: Khairatabad: Lakdikapul: Assembly:,8,1,35,35
+Yusuf Guda,Balanagar,17 Min,@Blue: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar: Moosapet: Balanagar:,9,1,30,30
+Yusuf Guda,Begumpet,7 Min,@Blue: Yusuf Guda: Madhura Nagar: Ameerpet: Begumpet:,4,0,15,15
+Yusuf Guda,Bharat Nagar,13 Min,@Blue: Yusuf Guda: Madhura Nagar:;@Red: Ameerpet: S R Nagar: ESI Hospital: Erragadda: Bharat Nagar:,7,1,25,25
