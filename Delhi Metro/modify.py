@@ -48,7 +48,7 @@ f = csv.writer(writeFile)
 f.writerow(["Lines"])
 writeFile.close()
 
-for i in range(1, 10):
+for i in range(1, len(l)):
     o = l[i]
     z = int(o[5].strip())
     color = ""

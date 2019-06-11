@@ -11,7 +11,7 @@ f.writerow([r[0]])
 
 for i in range(1, len(l)):
     v = l[i].split(",")
-    route = v[3]
+    route = v[4]
     route = route.replace("<Change Here>", "")
     route = route.replace("::", ":")
     f.writerow([route])
