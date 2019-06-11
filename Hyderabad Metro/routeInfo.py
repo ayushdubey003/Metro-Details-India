@@ -27,8 +27,11 @@ count = 0
 
 for i in range(1, len(v)):
     u.append(v[i].text)
+
+print(len(u))
+
 for i in range(0, len(u)):
-    for j in range(0, 5):
+    for j in range(0, len(u)):
         if i == j:
             continue
         driver.get("https://www.metrotraintimings.com/Hyderabad/Hyderabad-Metro-Rail-Timings.htm")
