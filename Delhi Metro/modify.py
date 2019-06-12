@@ -28,7 +28,7 @@ for i in range(1, len(l)):
 
 readFile.close()
 
-readFile = open("DelhiMetroRouteInfo.csv", "r", newline='')
+readFile = open("redLine.csv", "r", newline='')
 r = csv.reader(readFile)
 l = list(r)
 readFile.close()
@@ -48,7 +48,7 @@ f = csv.writer(writeFile)
 f.writerow(["Lines"])
 writeFile.close()
 
-for i in range(1, len(l)):
+for i in range(0, len(l)):
     o = l[i]
     z = int(o[5].strip())
     color = ""
