@@ -1,5 +1,7 @@
 import csv
 from difflib import SequenceMatcher
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
 
 def similar(a, b):
@@ -10,109 +12,38 @@ readFile = open("DelhiMetroStations.csv", "r", newline='')
 r = csv.reader(readFile)
 l = list(r)
 
-d = {}
+li = []
 
 for i in range(1, len(l)):
     v = l[i]
-    s = v[1]
-    ind = s.find("Line")
-    s = s[0:ind]
-    s = s.strip()
-    key = v[0].lower()
-    if key in d:
-        f = d[key]
-        f = f + "|" + s
-        d[key] = f
-    else:
-        d[key] = s
+    s = v[0]
+    li.append(s)
 
 readFile.close()
 
-readFile = open("redLine.csv", "r", newline='')
+readFile = open("DelhiMetroRouteInfo.csv", "r", newline='')
 r = csv.reader(readFile)
 l = list(r)
 readFile.close()
 
-d1 = {"Red": 0,
-      "Yellow": 0,
-      "Blue": 0,
-      "Green": 0,
-      "Violet": 0,
-      "Orange": 0,
-      "Pink": 0,
-      "Magenta": 0,
-      "Grey": 0}
-
-writeFile = open("column.csv", "a", newline='')
+writeFile = open("column.csv", "w", newline='')
 f = csv.writer(writeFile)
-f.writerow(["Lines"])
-writeFile.close()
+f.writerow(["Station Name"])
 
-for i in range(0, len(l)):
-    o = l[i]
-    z = int(o[5].strip())
-    color = ""
-    if z > 0:
-        f = o[4]
-        x = f.split(":")
-        res = -1
-        for j in range(0, len(x)):
-            ma = 0.0
-            ind = x[j].find("<")
-            for key in d:
-                z = similar(key, x[j].lower())
-                if z > ma:
-                    ma = z
-                    res = key
-            arr = d[res].split("|")
-            if ind < 0:
-                for k in range(0, len(arr)):
-                    d1[arr[k]] = d1[arr[k]] + 1
-            elif ind >= 0:
-                for k in range(0, len(arr)):
-                    d1[arr[k]] = d1[arr[k]] + 1
-                ma1 = 0
-                co = ""
-                for key in d1:
-                    if int(d1[key]) > ma1:
-                        ma1 = d1[key]
-                        co = key
-                    d1[key] = 0
-                color = color + co + ":"
-            if j == len(x) - 1:
-                ma1 = 0
-                co = ""
-                for key in d1:
-                    if int(d1[key]) > ma1:
-                        ma1 = d1[key]
-                        co = key
-                    d1[key] = 0
-                color = color + co + ":"
-    else:
-        f = o[4]
-        x = f.split(":")
-        res = -1
-        for j in range(0, len(x)):
-            ma = 0.0
-            for key in d:
-                z = similar(key, x[j].lower())
-                if z > ma:
-                    ma = z
-                    res = key
-            arr = d[res].split("|")
-            if j == len(x) - 1:
-                for k in range(0, len(arr)):
-                    d1[arr[k]] = d1[arr[k]] + 1
-                ma1 = 0
-                co = ""
-                for key in d1:
-                    if int(d1[key]) > ma1:
-                        ma1 = d1[key]
-                        co = key
-                        d1[key] = 0
-                color = color + co + ":"
-    writeFile = open("column.csv", "a", newline='')
-    f = csv.writer(writeFile)
-    print(color)
-    f.writerow([color])
-    writeFile.close()
+stations = []
+co = 0
+for i in range(1, len(l)):
+    v = l[i]
+    co = co + 1
+    if co == 224:
+        co = 1
+    if co == 1:
+        stations.append(v[0])
+
+for i in range(0, len(li)):
+    ma = 0.0
+    app = ""
+    app = process.extractOne(li[i], stations)
+    print(li[i])
+    print(app)
+    f.writerow([app.__getitem__(0)])
