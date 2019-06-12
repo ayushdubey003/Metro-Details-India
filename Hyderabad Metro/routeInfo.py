@@ -15,7 +15,7 @@ r.append("Interchanges")
 r.append("Normal Fare")
 r.append("Concessional Fare(Sunday and national holiday)")
 
-with open("HyderabadRouteInfo.csv", "a", newline='') as writeFile:
+with open("HyderabadMetroRouteInfo.csv", "a", newline='') as writeFile:
     f = csv.writer(writeFile)
     f.writerow([r[0]] + [r[1]] + [r[2]] + [r[3]] + [r[4]] + [r[5]] + [r[6]] + [r[7]])
     writeFile.close()
@@ -95,7 +95,7 @@ for i in range(0, len(u)):
                 dur = duration.__str__()
                 dur = dur + " Min"
 
-        writeFile = open("HyderabadRouteInfo.csv", "a", newline='')
+        writeFile = open("HyderabadMetroRouteInfo.csv", "a", newline='')
         f = csv.writer(writeFile)
         f.writerow([source] + [destination] + [dur] + [route] + [stations] + [interchanges] + [fare] + [fare])
         writeFile.close()
