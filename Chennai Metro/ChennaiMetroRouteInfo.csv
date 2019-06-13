@@ -1,0 +1,651 @@
+Source,Destination,Duration,Route,Stations,Interchanges,Normal Fare,Concessional Fare(Sunday and national holiday)
+AG-DMS,Airport,26Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam: Airport:,10,0,40
+AG-DMS,Alandur,16Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur:,7,0,30
+AG-DMS,Anna Nagar East,37Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,16,1,50
+AG-DMS,Anna Nagar Tower,35Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,15,1,50
+AG-DMS,Arumbakkam,26Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,11,1,45
+AG-DMS,Ashok Nagar,21Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,9,1,40
+AG-DMS,Chennai Central,51Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,22,1,60
+AG-DMS,CMBT,28Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,12,1,45
+AG-DMS,Egmore,48Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,21,1,60
+AG-DMS,Ekkattuthangal,18Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal:,8,1,35
+AG-DMS,Guindy,13Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:,6,0,25
+AG-DMS,Kilpauk Medical College,43Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,19,1,55
+AG-DMS,Koyambedu,30Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,13,1,45
+AG-DMS,Little Mount,10Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount:,5,0,25
+AG-DMS,Meenambakkam,23Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam:,9,0,40
+AG-DMS,Nandanam,4Min,@Blue: AG-DMS: Teynampet: Nandanam:,3,0,10
+AG-DMS,Nanganallur Road,4Min,@Blue: AG-DMS:,1,0,10
+AG-DMS,Nehru Park,45Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,20,1,55
+AG-DMS,Pachaiyappas College,41Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,18,1,55
+AG-DMS,Saidapet,7Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet:,4,0,15
+AG-DMS,Shenoy Nagar,39Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,17,1,50
+AG-DMS,St Thomas Mount,18Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: St Thomas Mount:,8,1,35
+AG-DMS,Teynampet,2Min,@Blue: AG-DMS: Teynampet:,2,0,10
+AG-DMS,Thirumangalam,33Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,14,1,50
+AG-DMS,Vadapalani,24Min,@Blue: AG-DMS: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,10,1,40
+Airport,AG-DMS,26Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,10,0,40
+Airport,Alandur,10Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur:,4,0,25
+Airport,Anna Nagar East,31Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,13,1,50
+Airport,Anna Nagar Tower,29Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,12,1,45
+Airport,Arumbakkam,20Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,8,1,40
+Airport,Ashok Nagar,15Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,6,1,35
+Airport,Chennai Central,45Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,19,1,55
+Airport,CMBT,22Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,9,1,40
+Airport,Egmore,42Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,18,1,55
+Airport,Ekkattuthangal,12Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal:,5,1,30
+Airport,Guindy,13Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur: Guindy:,5,0,30
+Airport,Kilpauk Medical College,37Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,16,1,50
+Airport,Koyambedu,24Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,10,1,45
+Airport,Little Mount,16Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount:,6,0,30
+Airport,Meenambakkam,3Min,@Blue: Airport: Meenambakkam:,2,0,10
+Airport,Nandanam,22Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam:,8,0,40
+Airport,Nanganallur Road,7Min,@Blue: Airport: Meenambakkam: Nanganallur Road:,3,0,15
+Airport,Nehru Park,39Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,17,1,55
+Airport,Pachaiyappas College,35Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,15,1,50
+Airport,Saidapet,19Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet:,7,0,35
+Airport,Shenoy Nagar,33Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,14,1,50
+Airport,St Thomas Mount,12Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: St Thomas Mount:,5,1,30
+Airport,Teynampet,24Min,@Blue: Airport: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,9,0,40
+Airport,Thirumangalam,27Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,11,1,45
+Airport,Vadapalani,18Min,@Blue: Airport: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,7,1,40
+Alandur,AG-DMS,16Min,@Blue: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,7,0,30
+Alandur,Airport,10Min,@Blue: Alandur: Nanganallur Road: Meenambakkam: Airport:,4,0,25
+Alandur,Anna Nagar East,21Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,10,0,40
+Alandur,Anna Nagar Tower,19Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,9,0,40
+Alandur,Arumbakkam,10Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,5,0,30
+Alandur,Ashok Nagar,5Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar:,3,0,15
+Alandur,Chennai Central,35Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,16,0,50
+Alandur,CMBT,12Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,6,0,35
+Alandur,Egmore,32Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,15,0,50
+Alandur,Ekkattuthangal,2Min,@Green: Alandur: Ekkattuthangal:,2,0,10
+Alandur,Guindy,3Min,@Blue: Alandur: Guindy:,2,0,10
+Alandur,Kilpauk Medical College,27Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,13,0,45
+Alandur,Koyambedu,14Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,7,0,35
+Alandur,Little Mount,6Min,@Blue: Alandur: Guindy: Little Mount:,3,0,15
+Alandur,Meenambakkam,7Min,@Blue: Alandur: Nanganallur Road: Meenambakkam:,3,0,15
+Alandur,Nandanam,12Min,@Blue: Alandur: Guindy: Little Mount: Saidapet: Nandanam:,5,0,25
+Alandur,Nanganallur Road,3Min,@Blue: Alandur: Nanganallur Road:,2,0,10
+Alandur,Nehru Park,29Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,14,0,45
+Alandur,Pachaiyappas College,25Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,12,0,45
+Alandur,Saidapet,9Min,@Blue: Alandur: Guindy: Little Mount: Saidapet:,4,0,25
+Alandur,Shenoy Nagar,23Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,11,0,45
+Alandur,St Thomas Mount,3Min,@Green: Alandur: St Thomas Mount:,2,0,10
+Alandur,Teynampet,14Min,@Blue: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,6,0,30
+Alandur,Thirumangalam,17Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,8,0,40
+Alandur,Vadapalani,8Min,@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,4,0,25
+Anna Nagar East,AG-DMS,37Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,16,1,50
+Anna Nagar East,Airport,31Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,13,1,50
+Anna Nagar East,Alandur,21Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,10,0,40
+Anna Nagar East,Anna Nagar Tower,2Min,@Green: Anna Nagar East: Anna Nagar Tower:,2,0,10
+Anna Nagar East,Arumbakkam,11Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,6,0,30
+Anna Nagar East,Ashok Nagar,16Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,8,0,35
+Anna Nagar East,Chennai Central,14Min,@Green: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,7,0,30
+Anna Nagar East,CMBT,9Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,5,0,25
+Anna Nagar East,Egmore,11Min,@Green: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,6,0,25
+Anna Nagar East,Ekkattuthangal,19Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,9,0,40
+Anna Nagar East,Guindy,24Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,11,1,45
+Anna Nagar East,Kilpauk Medical College,6Min,@Green: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,4,0,15
+Anna Nagar East,Koyambedu,7Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,4,0,15
+Anna Nagar East,Little Mount,27Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,12,1,45
+Anna Nagar East,Meenambakkam,28Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,12,1,45
+Anna Nagar East,Nandanam,33Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,14,1,50
+Anna Nagar East,Nanganallur Road,24Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,11,1,45
+Anna Nagar East,Nehru Park,8Min,@Green: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,5,0,25
+Anna Nagar East,Pachaiyappas College,4Min,@Green: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,3,0,15
+Anna Nagar East,Saidapet,30Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,13,1,45
+Anna Nagar East,Shenoy Nagar,2Min,@Green: Anna Nagar East: Shenoy Nagar:,2,0,10
+Anna Nagar East,St Thomas Mount,24Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,11,0,45
+Anna Nagar East,Teynampet,35Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,15,1,50
+Anna Nagar East,Thirumangalam,4Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,3,0,15
+Anna Nagar East,Vadapalani,13Min,@Green: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,7,0,30
+Anna Nagar Tower,AG-DMS,35Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,15,1,50
+Anna Nagar Tower,Airport,29Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,12,1,45
+Anna Nagar Tower,Alandur,19Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,9,0,40
+Anna Nagar Tower,Anna Nagar East,2Min,@Green: Anna Nagar Tower: Anna Nagar East:,2,0,10
+Anna Nagar Tower,Arumbakkam,9Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,5,0,25
+Anna Nagar Tower,Ashok Nagar,14Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,7,0,35
+Anna Nagar Tower,Chennai Central,16Min,@Green: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,8,0,35
+Anna Nagar Tower,CMBT,7Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,4,0,25
+Anna Nagar Tower,Egmore,13Min,@Green: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,7,0,30
+Anna Nagar Tower,Ekkattuthangal,17Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,8,0,40
+Anna Nagar Tower,Guindy,22Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,10,1,40
+Anna Nagar Tower,Kilpauk Medical College,8Min,@Green: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,5,0,25
+Anna Nagar Tower,Koyambedu,5Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu:,3,0,15
+Anna Nagar Tower,Little Mount,25Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,11,1,45
+Anna Nagar Tower,Meenambakkam,26Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,11,1,45
+Anna Nagar Tower,Nandanam,31Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,13,1,45
+Anna Nagar Tower,Nanganallur Road,22Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,10,1,40
+Anna Nagar Tower,Nehru Park,10Min,@Green: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,6,0,25
+Anna Nagar Tower,Pachaiyappas College,6Min,@Green: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,4,0,15
+Anna Nagar Tower,Saidapet,28Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,12,1,45
+Anna Nagar Tower,Shenoy Nagar,4Min,@Green: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,3,0,15
+Anna Nagar Tower,St Thomas Mount,22Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,10,0,40
+Anna Nagar Tower,Teynampet,33Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,14,1,50
+Anna Nagar Tower,Thirumangalam,2Min,@Green: Anna Nagar Tower: Thirumangalam:,2,0,10
+Anna Nagar Tower,Vadapalani,11Min,@Green: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,6,0,30
+Arumbakkam,AG-DMS,26Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,11,1,45
+Arumbakkam,Airport,20Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,8,1,40
+Arumbakkam,Alandur,10Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,5,0,30
+Arumbakkam,Anna Nagar East,11Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,6,0,30
+Arumbakkam,Anna Nagar Tower,9Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,5,0,25
+Arumbakkam,Ashok Nagar,5Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar:,3,0,15
+Arumbakkam,Chennai Central,25Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,12,0,40
+Arumbakkam,CMBT,2Min,@Green: Arumbakkam: CMBT:,2,0,10
+Arumbakkam,Egmore,22Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,11,0,40
+Arumbakkam,Ekkattuthangal,8Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,4,0,25
+Arumbakkam,Guindy,13Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,6,1,35
+Arumbakkam,Kilpauk Medical College,17Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,9,0,35
+Arumbakkam,Koyambedu,4Min,@Green: Arumbakkam: CMBT: Koyambedu:,3,0,15
+Arumbakkam,Little Mount,16Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,7,1,35
+Arumbakkam,Meenambakkam,17Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,7,1,40
+Arumbakkam,Nandanam,22Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,9,1,40
+Arumbakkam,Nanganallur Road,13Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,6,1,30
+Arumbakkam,Nehru Park,19Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,10,0,40
+Arumbakkam,Pachaiyappas College,15Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,8,0,35
+Arumbakkam,Saidapet,19Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,8,1,40
+Arumbakkam,Shenoy Nagar,13Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,7,0,30
+Arumbakkam,St Thomas Mount,13Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,6,0,30
+Arumbakkam,Teynampet,24Min,@Green: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,10,1,40
+Arumbakkam,Thirumangalam,7Min,@Green: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,4,0,25
+Arumbakkam,Vadapalani,2Min,@Green: Arumbakkam: Vadapalani:,2,0,10
+Ashok Nagar,AG-DMS,21Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,9,1,40
+Ashok Nagar,Airport,15Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,6,1,35
+Ashok Nagar,Alandur,5Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:,3,0,15
+Ashok Nagar,Anna Nagar East,16Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,8,0,35
+Ashok Nagar,Anna Nagar Tower,14Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,7,0,35
+Ashok Nagar,Arumbakkam,5Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam:,3,0,15
+Ashok Nagar,Chennai Central,30Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,14,0,45
+Ashok Nagar,CMBT,7Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,4,0,25
+Ashok Nagar,Egmore,27Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,13,0,45
+Ashok Nagar,Ekkattuthangal,3Min,@Green: Ashok Nagar: Ekkattuthangal:,2,0,15
+Ashok Nagar,Guindy,8Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,4,1,25
+Ashok Nagar,Kilpauk Medical College,22Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,11,0,40
+Ashok Nagar,Koyambedu,9Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,5,0,25
+Ashok Nagar,Little Mount,11Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,5,1,30
+Ashok Nagar,Meenambakkam,12Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,5,1,30
+Ashok Nagar,Nandanam,17Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,7,1,35
+Ashok Nagar,Nanganallur Road,8Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,4,1,25
+Ashok Nagar,Nehru Park,24Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,12,0,40
+Ashok Nagar,Pachaiyappas College,20Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,10,0,40
+Ashok Nagar,Saidapet,14Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,6,1,30
+Ashok Nagar,Shenoy Nagar,18Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,9,0,40
+Ashok Nagar,St Thomas Mount,8Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,4,0,25
+Ashok Nagar,Teynampet,19Min,@Green: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,8,1,40
+Ashok Nagar,Thirumangalam,12Min,@Green: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,6,0,30
+Ashok Nagar,Vadapalani,3Min,@Green: Ashok Nagar: Vadapalani:,2,0,10
+Chennai Central,AG-DMS,51Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,22,1,60
+Chennai Central,Airport,45Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,19,1,55
+Chennai Central,Alandur,35Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,16,0,50
+Chennai Central,Anna Nagar East,14Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East:,7,0,30
+Chennai Central,Anna Nagar Tower,16Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower:,8,0,35
+Chennai Central,Arumbakkam,25Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,12,0,40
+Chennai Central,Ashok Nagar,30Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,14,0,45
+Chennai Central,CMBT,23Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,11,0,40
+Chennai Central,Egmore,3Min,@Green: Chennai Central: Egmore:,2,0,10
+Chennai Central,Ekkattuthangal,33Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,15,0,50
+Chennai Central,Guindy,38Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,17,1,50
+Chennai Central,Kilpauk Medical College,8Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College:,4,0,15
+Chennai Central,Koyambedu,21Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,10,0,40
+Chennai Central,Little Mount,41Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,18,1,55
+Chennai Central,Meenambakkam,42Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,18,1,55
+Chennai Central,Nandanam,47Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,20,1,55
+Chennai Central,Nanganallur Road,38Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,17,1,50
+Chennai Central,Nehru Park,6Min,@Green: Chennai Central: Egmore: Nehru Park:,3,0,15
+Chennai Central,Pachaiyappas College,10Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College:,5,0,25
+Chennai Central,Saidapet,44Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,19,1,55
+Chennai Central,Shenoy Nagar,12Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar:,6,0,25
+Chennai Central,St Thomas Mount,38Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,17,0,50
+Chennai Central,Teynampet,49Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,21,1,60
+Chennai Central,Thirumangalam,18Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,9,0,35
+Chennai Central,Vadapalani,27Min,@Green: Chennai Central: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,13,0,45
+CMBT,AG-DMS,28Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,12,1,45
+CMBT,Airport,22Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,9,1,40
+CMBT,Alandur,12Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,6,0,35
+CMBT,Anna Nagar East,9Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,5,0,25
+CMBT,Anna Nagar Tower,7Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,4,0,25
+CMBT,Arumbakkam,2Min,@Green: CMBT: Arumbakkam:,2,0,10
+CMBT,Ashok Nagar,7Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,4,0,25
+CMBT,Chennai Central,23Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,11,0,40
+CMBT,Egmore,20Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,10,0,40
+CMBT,Ekkattuthangal,10Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,5,0,30
+CMBT,Guindy,15Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,7,1,35
+CMBT,Kilpauk Medical College,15Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,8,0,35
+CMBT,Koyambedu,2Min,@Green: CMBT: Koyambedu:,2,0,10
+CMBT,Little Mount,18Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,8,1,40
+CMBT,Meenambakkam,19Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,8,1,40
+CMBT,Nandanam,24Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,10,1,40
+CMBT,Nanganallur Road,15Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,7,1,35
+CMBT,Nehru Park,17Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,9,0,35
+CMBT,Pachaiyappas College,13Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,7,0,30
+CMBT,Saidapet,21Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,9,1,40
+CMBT,Shenoy Nagar,11Min,@Green: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,6,0,30
+CMBT,St Thomas Mount,15Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,7,0,35
+CMBT,Teynampet,26Min,@Green: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,11,1,45
+CMBT,Thirumangalam,5Min,@Green: CMBT: Koyambedu: Thirumangalam:,3,0,15
+CMBT,Vadapalani,4Min,@Green: CMBT: Arumbakkam: Vadapalani:,3,0,15
+Egmore,AG-DMS,48Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,21,1,60
+Egmore,Airport,42Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,18,1,55
+Egmore,Alandur,32Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,15,0,50
+Egmore,Anna Nagar East,11Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East:,6,0,25
+Egmore,Anna Nagar Tower,13Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower:,7,0,30
+Egmore,Arumbakkam,22Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,11,0,40
+Egmore,Ashok Nagar,27Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,13,0,45
+Egmore,Chennai Central,3Min,@Green: Egmore: Chennai Central:,2,0,10
+Egmore,CMBT,20Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,10,0,40
+Egmore,Ekkattuthangal,30Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,14,0,45
+Egmore,Guindy,35Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,16,1,50
+Egmore,Kilpauk Medical College,5Min,@Green: Egmore: Nehru Park: Kilpauk Medical College:,3,0,15
+Egmore,Koyambedu,18Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,9,0,35
+Egmore,Little Mount,38Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,17,1,50
+Egmore,Meenambakkam,39Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,17,1,55
+Egmore,Nandanam,44Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,19,1,55
+Egmore,Nanganallur Road,35Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,16,1,50
+Egmore,Nehru Park,3Min,@Green: Egmore: Nehru Park:,2,0,10
+Egmore,Pachaiyappas College,7Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College:,4,0,15
+Egmore,Saidapet,41Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,18,1,55
+Egmore,Shenoy Nagar,9Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar:,5,0,25
+Egmore,St Thomas Mount,35Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,16,0,50
+Egmore,Teynampet,46Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,20,1,55
+Egmore,Thirumangalam,15Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,8,0,30
+Egmore,Vadapalani,24Min,@Green: Egmore: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,12,0,40
+Ekkattuthangal,AG-DMS,18Min,@Green: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,8,1,35
+Ekkattuthangal,Airport,12Min,@Green: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,5,1,30
+Ekkattuthangal,Alandur,2Min,@Green: Ekkattuthangal: Alandur:,2,0,10
+Ekkattuthangal,Anna Nagar East,19Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,9,0,40
+Ekkattuthangal,Anna Nagar Tower,17Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,8,0,40
+Ekkattuthangal,Arumbakkam,8Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,4,0,25
+Ekkattuthangal,Ashok Nagar,3Min,@Green: Ekkattuthangal: Ashok Nagar:,2,0,15
+Ekkattuthangal,Chennai Central,33Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,15,0,50
+Ekkattuthangal,CMBT,10Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,5,0,30
+Ekkattuthangal,Egmore,30Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,14,0,45
+Ekkattuthangal,Guindy,5Min,@Green: Ekkattuthangal: Alandur:;@Blue: Guindy:,3,1,15
+Ekkattuthangal,Kilpauk Medical College,25Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,12,0,45
+Ekkattuthangal,Koyambedu,12Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,6,0,35
+Ekkattuthangal,Little Mount,8Min,@Green: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,4,1,25
+Ekkattuthangal,Meenambakkam,9Min,@Green: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,4,1,25
+Ekkattuthangal,Nandanam,14Min,@Green: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,6,1,30
+Ekkattuthangal,Nanganallur Road,5Min,@Green: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,3,1,15
+Ekkattuthangal,Nehru Park,27Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,13,0,45
+Ekkattuthangal,Pachaiyappas College,23Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,11,0,45
+Ekkattuthangal,Saidapet,11Min,@Green: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,5,1,25
+Ekkattuthangal,Shenoy Nagar,21Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,10,0,40
+Ekkattuthangal,St Thomas Mount,5Min,@Green: Ekkattuthangal: Alandur: St Thomas Mount:,3,0,15
+Ekkattuthangal,Teynampet,16Min,@Green: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,7,1,35
+Ekkattuthangal,Thirumangalam,15Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,7,0,35
+Ekkattuthangal,Vadapalani,6Min,@Green: Ekkattuthangal: Ashok Nagar: Vadapalani:,3,0,25
+Guindy,AG-DMS,13Min,@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,6,0,25
+Guindy,Airport,13Min,@Blue: Guindy: Alandur: Nanganallur Road: Meenambakkam: Airport:,5,0,30
+Guindy,Alandur,3Min,@Blue: Guindy: Alandur:,2,0,10
+Guindy,Anna Nagar East,24Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,11,1,45
+Guindy,Anna Nagar Tower,22Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,10,1,40
+Guindy,Arumbakkam,13Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,6,1,35
+Guindy,Ashok Nagar,8Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,4,1,25
+Guindy,Chennai Central,38Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,17,1,50
+Guindy,CMBT,15Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,7,1,35
+Guindy,Egmore,35Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,16,1,50
+Guindy,Ekkattuthangal,5Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal:,3,1,15
+Guindy,Kilpauk Medical College,30Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,14,1,50
+Guindy,Koyambedu,17Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,8,1,40
+Guindy,Little Mount,3Min,@Blue: Guindy: Little Mount:,2,0,10
+Guindy,Meenambakkam,10Min,@Blue: Guindy: Alandur: Nanganallur Road: Meenambakkam:,4,0,25
+Guindy,Nandanam,9Min,@Blue: Guindy: Little Mount: Saidapet: Nandanam:,4,0,25
+Guindy,Nanganallur Road,6Min,@Blue: Guindy: Alandur: Nanganallur Road:,3,0,15
+Guindy,Nehru Park,32Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,15,1,50
+Guindy,Pachaiyappas College,28Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,13,1,45
+Guindy,Saidapet,6Min,@Blue: Guindy: Little Mount: Saidapet:,3,0,15
+Guindy,Shenoy Nagar,26Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,12,1,45
+Guindy,St Thomas Mount,5Min,@Blue: Guindy:;@Green: Alandur: St Thomas Mount:,3,1,15
+Guindy,Teynampet,11Min,@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,5,0,25
+Guindy,Thirumangalam,20Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,9,1,40
+Guindy,Vadapalani,11Min,@Blue: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,5,1,30
+Kilpauk Medical College,AG-DMS,43Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,19,1,55
+Kilpauk Medical College,Airport,37Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,16,1,50
+Kilpauk Medical College,Alandur,27Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,13,0,45
+Kilpauk Medical College,Anna Nagar East,6Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East:,4,0,15
+Kilpauk Medical College,Anna Nagar Tower,8Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower:,5,0,25
+Kilpauk Medical College,Arumbakkam,17Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,9,0,35
+Kilpauk Medical College,Ashok Nagar,22Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,11,0,40
+Kilpauk Medical College,Chennai Central,8Min,@Green: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,4,0,15
+Kilpauk Medical College,CMBT,15Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,8,0,35
+Kilpauk Medical College,Egmore,5Min,@Green: Kilpauk Medical College: Nehru Park: Egmore:,3,0,15
+Kilpauk Medical College,Ekkattuthangal,25Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,12,0,45
+Kilpauk Medical College,Guindy,30Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,14,1,50
+Kilpauk Medical College,Koyambedu,13Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,7,0,30
+Kilpauk Medical College,Little Mount,33Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,15,1,50
+Kilpauk Medical College,Meenambakkam,34Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,15,1,50
+Kilpauk Medical College,Nandanam,39Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,17,1,55
+Kilpauk Medical College,Nanganallur Road,30Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,14,1,45
+Kilpauk Medical College,Nehru Park,2Min,@Green: Kilpauk Medical College: Nehru Park:,2,0,10
+Kilpauk Medical College,Pachaiyappas College,2Min,@Green: Kilpauk Medical College: Pachaiyappas College:,2,0,10
+Kilpauk Medical College,Saidapet,36Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,16,1,50
+Kilpauk Medical College,Shenoy Nagar,4Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar:,3,0,15
+Kilpauk Medical College,St Thomas Mount,30Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,14,0,45
+Kilpauk Medical College,Teynampet,41Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,18,1,55
+Kilpauk Medical College,Thirumangalam,10Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,6,0,25
+Kilpauk Medical College,Vadapalani,19Min,@Green: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,10,0,40
+Koyambedu,AG-DMS,30Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,13,1,45
+Koyambedu,Airport,24Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,10,1,45
+Koyambedu,Alandur,14Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,7,0,35
+Koyambedu,Anna Nagar East,7Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,4,0,15
+Koyambedu,Anna Nagar Tower,5Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower:,3,0,15
+Koyambedu,Arumbakkam,4Min,@Green: Koyambedu: CMBT: Arumbakkam:,3,0,15
+Koyambedu,Ashok Nagar,9Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,5,0,25
+Koyambedu,Chennai Central,21Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,10,0,40
+Koyambedu,CMBT,2Min,@Green: Koyambedu: CMBT:,2,0,10
+Koyambedu,Egmore,18Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,9,0,35
+Koyambedu,Ekkattuthangal,12Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,6,0,30
+Koyambedu,Guindy,17Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,8,1,40
+Koyambedu,Kilpauk Medical College,13Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,7,0,30
+Koyambedu,Little Mount,20Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,9,1,40
+Koyambedu,Meenambakkam,21Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,9,1,40
+Koyambedu,Nandanam,26Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,11,1,45
+Koyambedu,Nanganallur Road,17Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,8,1,40
+Koyambedu,Nehru Park,15Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,8,0,35
+Koyambedu,Pachaiyappas College,11Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,6,0,30
+Koyambedu,Saidapet,23Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,10,1,40
+Koyambedu,Shenoy Nagar,9Min,@Green: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,5,0,25
+Koyambedu,St Thomas Mount,17Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,8,0,40
+Koyambedu,Teynampet,28Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,12,1,45
+Koyambedu,Thirumangalam,3Min,@Green: Koyambedu: Thirumangalam:,2,0,10
+Koyambedu,Vadapalani,6Min,@Green: Koyambedu: CMBT: Arumbakkam: Vadapalani:,4,0,15
+Little Mount,AG-DMS,10Min,@Blue: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,5,0,25
+Little Mount,Airport,16Min,@Blue: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam: Airport:,6,0,30
+Little Mount,Alandur,6Min,@Blue: Little Mount: Guindy: Alandur:,3,0,15
+Little Mount,Anna Nagar East,27Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,12,1,45
+Little Mount,Anna Nagar Tower,25Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,11,1,45
+Little Mount,Arumbakkam,16Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,7,1,35
+Little Mount,Ashok Nagar,11Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,5,1,30
+Little Mount,Chennai Central,41Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,18,1,55
+Little Mount,CMBT,18Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,8,1,40
+Little Mount,Egmore,38Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,17,1,50
+Little Mount,Ekkattuthangal,8Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal:,4,1,25
+Little Mount,Guindy,3Min,@Blue: Little Mount: Guindy:,2,0,10
+Little Mount,Kilpauk Medical College,33Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,15,1,50
+Little Mount,Koyambedu,20Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,9,1,40
+Little Mount,Meenambakkam,13Min,@Blue: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam:,5,0,30
+Little Mount,Nandanam,6Min,@Blue: Little Mount: Saidapet: Nandanam:,3,0,15
+Little Mount,Nanganallur Road,9Min,@Blue: Little Mount: Guindy: Alandur: Nanganallur Road:,4,0,15
+Little Mount,Nehru Park,35Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,16,1,50
+Little Mount,Pachaiyappas College,31Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,14,1,50
+Little Mount,Saidapet,3Min,@Blue: Little Mount: Saidapet:,2,0,10
+Little Mount,Shenoy Nagar,29Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,13,1,45
+Little Mount,St Thomas Mount,8Min,@Blue: Little Mount: Guindy:;@Green: Alandur: St Thomas Mount:,4,1,25
+Little Mount,Teynampet,8Min,@Blue: Little Mount: Saidapet: Nandanam: Teynampet:,4,0,15
+Little Mount,Thirumangalam,23Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,10,1,40
+Little Mount,Vadapalani,14Min,@Blue: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,6,1,35
+Meenambakkam,AG-DMS,23Min,@Blue: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,9,0,40
+Meenambakkam,Airport,3Min,@Blue: Meenambakkam: Airport:,2,0,10
+Meenambakkam,Alandur,7Min,@Blue: Meenambakkam: Nanganallur Road: Alandur:,3,0,15
+Meenambakkam,Anna Nagar East,28Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,12,1,45
+Meenambakkam,Anna Nagar Tower,26Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,11,1,45
+Meenambakkam,Arumbakkam,17Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,7,1,40
+Meenambakkam,Ashok Nagar,12Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,5,1,30
+Meenambakkam,Chennai Central,42Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,18,1,55
+Meenambakkam,CMBT,19Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,8,1,40
+Meenambakkam,Egmore,39Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,17,1,50
+Meenambakkam,Ekkattuthangal,9Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal:,4,1,25
+Meenambakkam,Guindy,10Min,@Blue: Meenambakkam: Nanganallur Road: Alandur: Guindy:,4,0,25
+Meenambakkam,Kilpauk Medical College,34Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,15,1,50
+Meenambakkam,Koyambedu,21Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,9,1,40
+Meenambakkam,Little Mount,13Min,@Blue: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount:,5,0,30
+Meenambakkam,Nandanam,19Min,@Blue: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam:,7,0,35
+Meenambakkam,Nanganallur Road,4Min,@Blue: Meenambakkam: Nanganallur Road:,2,0,15
+Meenambakkam,Nehru Park,36Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,16,1,50
+Meenambakkam,Pachaiyappas College,32Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,14,1,50
+Meenambakkam,Saidapet,16Min,@Blue: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet:,6,0,30
+Meenambakkam,Shenoy Nagar,30Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,13,1,45
+Meenambakkam,St Thomas Mount,9Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: St Thomas Mount:,4,1,25
+Meenambakkam,Teynampet,21Min,@Blue: Meenambakkam: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,8,0,35
+Meenambakkam,Thirumangalam,24Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,10,1,45
+Meenambakkam,Vadapalani,15Min,@Blue: Meenambakkam: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,6,1,35
+Nandanam,AG-DMS,4Min,@Blue: Nandanam: Teynampet: AG-DMS:,3,0,10
+Nandanam,Airport,22Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam: Airport:,8,0,40
+Nandanam,Alandur,12Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy: Alandur:,5,0,25
+Nandanam,Anna Nagar East,33Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,14,1,50
+Nandanam,Anna Nagar Tower,31Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,13,1,45
+Nandanam,Arumbakkam,22Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,9,1,40
+Nandanam,Ashok Nagar,17Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,7,1,35
+Nandanam,Chennai Central,47Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,20,1,55
+Nandanam,CMBT,24Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,10,1,40
+Nandanam,Egmore,44Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,19,1,55
+Nandanam,Ekkattuthangal,14Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal:,6,1,30
+Nandanam,Guindy,9Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:,4,0,25
+Nandanam,Kilpauk Medical College,39Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,17,1,55
+Nandanam,Koyambedu,26Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,11,1,45
+Nandanam,Little Mount,6Min,@Blue: Nandanam: Saidapet: Little Mount:,3,0,15
+Nandanam,Meenambakkam,19Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam:,7,0,35
+Nandanam,Nanganallur Road,15Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road:,6,0,30
+Nandanam,Nehru Park,41Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,18,1,55
+Nandanam,Pachaiyappas College,37Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,16,1,50
+Nandanam,Saidapet,3Min,@Blue: Nandanam: Saidapet:,2,0,10
+Nandanam,Shenoy Nagar,35Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,15,1,50
+Nandanam,St Thomas Mount,14Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: St Thomas Mount:,6,1,30
+Nandanam,Teynampet,2Min,@Blue: Nandanam: Teynampet:,2,0,10
+Nandanam,Thirumangalam,29Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,12,1,45
+Nandanam,Vadapalani,20Min,@Blue: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,8,1,40
+Nanganallur Road,AG-DMS,19Min,@Blue: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,8,0,35
+Nanganallur Road,Airport,7Min,@Blue: Nanganallur Road: Meenambakkam: Airport:,3,0,15
+Nanganallur Road,Alandur,3Min,@Blue: Nanganallur Road: Alandur:,2,0,10
+Nanganallur Road,Anna Nagar East,24Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,11,1,45
+Nanganallur Road,Anna Nagar Tower,22Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,10,1,40
+Nanganallur Road,Arumbakkam,13Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,6,1,30
+Nanganallur Road,Ashok Nagar,8Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,4,1,25
+Nanganallur Road,Chennai Central,38Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,17,1,50
+Nanganallur Road,CMBT,15Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,7,1,35
+Nanganallur Road,Egmore,35Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,16,1,50
+Nanganallur Road,Ekkattuthangal,5Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal:,3,1,15
+Nanganallur Road,Guindy,6Min,@Blue: Nanganallur Road: Alandur: Guindy:,3,0,15
+Nanganallur Road,Kilpauk Medical College,30Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,14,1,45
+Nanganallur Road,Koyambedu,17Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,8,1,40
+Nanganallur Road,Little Mount,9Min,@Blue: Nanganallur Road: Alandur: Guindy: Little Mount:,4,0,15
+Nanganallur Road,Meenambakkam,4Min,@Blue: Nanganallur Road: Meenambakkam:,2,0,15
+Nanganallur Road,Nandanam,15Min,@Blue: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam:,6,0,30
+Nanganallur Road,Nehru Park,32Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,15,1,50
+Nanganallur Road,Pachaiyappas College,28Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,13,1,45
+Nanganallur Road,Saidapet,12Min,@Blue: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet:,5,0,25
+Nanganallur Road,Shenoy Nagar,26Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,12,1,45
+Nanganallur Road,St Thomas Mount,5Min,@Blue: Nanganallur Road:;@Green: Alandur: St Thomas Mount:,3,1,15
+Nanganallur Road,Teynampet,17Min,@Blue: Nanganallur Road: Alandur: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,7,0,30
+Nanganallur Road,Thirumangalam,20Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,9,1,40
+Nanganallur Road,Vadapalani,11Min,@Blue: Nanganallur Road:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,5,1,30
+Nehru Park,AG-DMS,45Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,20,1,55
+Nehru Park,Airport,39Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,17,1,55
+Nehru Park,Alandur,29Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,14,0,45
+Nehru Park,Anna Nagar East,8Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East:,5,0,25
+Nehru Park,Anna Nagar Tower,10Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower:,6,0,25
+Nehru Park,Arumbakkam,19Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,10,0,40
+Nehru Park,Ashok Nagar,24Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,12,0,40
+Nehru Park,Chennai Central,6Min,@Green: Nehru Park: Egmore: Chennai Central:,3,0,15
+Nehru Park,CMBT,17Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,9,0,35
+Nehru Park,Egmore,3Min,@Green: Nehru Park: Egmore:,2,0,10
+Nehru Park,Ekkattuthangal,27Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,13,0,45
+Nehru Park,Guindy,32Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,15,1,50
+Nehru Park,Kilpauk Medical College,2Min,@Green: Nehru Park: Kilpauk Medical College:,2,0,10
+Nehru Park,Koyambedu,15Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,8,0,35
+Nehru Park,Little Mount,35Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,16,1,50
+Nehru Park,Meenambakkam,36Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,16,1,50
+Nehru Park,Nandanam,41Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,18,1,55
+Nehru Park,Nanganallur Road,32Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,15,1,50
+Nehru Park,Pachaiyappas College,4Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College:,3,0,10
+Nehru Park,Saidapet,38Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,17,1,50
+Nehru Park,Shenoy Nagar,6Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar:,4,0,15
+Nehru Park,St Thomas Mount,32Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,15,0,50
+Nehru Park,Teynampet,43Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,19,1,55
+Nehru Park,Thirumangalam,12Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,7,0,30
+Nehru Park,Vadapalani,21Min,@Green: Nehru Park: Kilpauk Medical College: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,11,0,40
+Pachaiyappas College,AG-DMS,41Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,18,1,55
+Pachaiyappas College,Airport,35Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,15,1,50
+Pachaiyappas College,Alandur,25Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,12,0,45
+Pachaiyappas College,Anna Nagar East,4Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East:,3,0,15
+Pachaiyappas College,Anna Nagar Tower,6Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower:,4,0,15
+Pachaiyappas College,Arumbakkam,15Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,8,0,35
+Pachaiyappas College,Ashok Nagar,20Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,10,0,40
+Pachaiyappas College,Chennai Central,10Min,@Green: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,5,0,25
+Pachaiyappas College,CMBT,13Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,7,0,30
+Pachaiyappas College,Egmore,7Min,@Green: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,4,0,15
+Pachaiyappas College,Ekkattuthangal,23Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,11,0,45
+Pachaiyappas College,Guindy,28Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,13,1,45
+Pachaiyappas College,Kilpauk Medical College,2Min,@Green: Pachaiyappas College: Kilpauk Medical College:,2,0,10
+Pachaiyappas College,Koyambedu,11Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,6,0,30
+Pachaiyappas College,Little Mount,31Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,14,1,50
+Pachaiyappas College,Meenambakkam,32Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,14,1,50
+Pachaiyappas College,Nandanam,37Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,16,1,50
+Pachaiyappas College,Nanganallur Road,28Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,13,1,45
+Pachaiyappas College,Nehru Park,4Min,@Green: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,3,0,10
+Pachaiyappas College,Saidapet,34Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,15,1,50
+Pachaiyappas College,Shenoy Nagar,2Min,@Green: Pachaiyappas College: Shenoy Nagar:,2,0,10
+Pachaiyappas College,St Thomas Mount,28Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,13,0,45
+Pachaiyappas College,Teynampet,39Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,17,1,55
+Pachaiyappas College,Thirumangalam,8Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,5,0,25
+Pachaiyappas College,Vadapalani,17Min,@Green: Pachaiyappas College: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,9,0,40
+Saidapet,AG-DMS,7Min,@Blue: Saidapet: Nandanam: Teynampet: AG-DMS:,4,0,15
+Saidapet,Airport,19Min,@Blue: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam: Airport:,7,0,35
+Saidapet,Alandur,9Min,@Blue: Saidapet: Little Mount: Guindy: Alandur:,4,0,15
+Saidapet,Anna Nagar East,30Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,13,1,45
+Saidapet,Anna Nagar Tower,28Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,12,1,45
+Saidapet,Arumbakkam,19Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,8,1,40
+Saidapet,Ashok Nagar,14Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,6,1,30
+Saidapet,Chennai Central,44Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,19,1,55
+Saidapet,CMBT,21Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,9,1,40
+Saidapet,Egmore,41Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,18,1,55
+Saidapet,Ekkattuthangal,11Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal:,5,1,25
+Saidapet,Guindy,6Min,@Blue: Saidapet: Little Mount: Guindy:,3,0,15
+Saidapet,Kilpauk Medical College,36Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,16,1,50
+Saidapet,Koyambedu,23Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,10,1,40
+Saidapet,Little Mount,3Min,@Blue: Saidapet: Little Mount:,2,0,10
+Saidapet,Meenambakkam,16Min,@Blue: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam:,6,0,30
+Saidapet,Nandanam,3Min,@Blue: Saidapet: Nandanam:,2,0,10
+Saidapet,Nanganallur Road,12Min,@Blue: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road:,5,0,25
+Saidapet,Nehru Park,38Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,17,1,50
+Saidapet,Pachaiyappas College,34Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,15,1,50
+Saidapet,Shenoy Nagar,32Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,14,1,50
+Saidapet,St Thomas Mount,11Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: St Thomas Mount:,5,1,25
+Saidapet,Teynampet,5Min,@Blue: Saidapet: Nandanam: Teynampet:,3,0,15
+Saidapet,Thirumangalam,26Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,11,1,45
+Saidapet,Vadapalani,17Min,@Blue: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,7,1,35
+Shenoy Nagar,AG-DMS,39Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,17,1,50
+Shenoy Nagar,Airport,33Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,14,1,50
+Shenoy Nagar,Alandur,23Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,11,0,45
+Shenoy Nagar,Anna Nagar East,2Min,@Green: Shenoy Nagar: Anna Nagar East:,2,0,10
+Shenoy Nagar,Anna Nagar Tower,4Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower:,3,0,15
+Shenoy Nagar,Arumbakkam,13Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,7,0,30
+Shenoy Nagar,Ashok Nagar,18Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,9,0,40
+Shenoy Nagar,Chennai Central,12Min,@Green: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,6,0,25
+Shenoy Nagar,CMBT,11Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT:,6,0,30
+Shenoy Nagar,Egmore,9Min,@Green: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,5,0,25
+Shenoy Nagar,Ekkattuthangal,21Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,10,0,40
+Shenoy Nagar,Guindy,26Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,12,1,45
+Shenoy Nagar,Kilpauk Medical College,4Min,@Green: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,3,0,15
+Shenoy Nagar,Koyambedu,9Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu:,5,0,25
+Shenoy Nagar,Little Mount,29Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,13,1,45
+Shenoy Nagar,Meenambakkam,30Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,13,1,45
+Shenoy Nagar,Nandanam,35Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,15,1,50
+Shenoy Nagar,Nanganallur Road,26Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,12,1,45
+Shenoy Nagar,Nehru Park,6Min,@Green: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,4,0,15
+Shenoy Nagar,Pachaiyappas College,2Min,@Green: Shenoy Nagar: Pachaiyappas College:,2,0,10
+Shenoy Nagar,Saidapet,32Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,14,1,50
+Shenoy Nagar,St Thomas Mount,26Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,12,0,45
+Shenoy Nagar,Teynampet,37Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,16,1,50
+Shenoy Nagar,Thirumangalam,6Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam:,4,0,15
+Shenoy Nagar,Vadapalani,15Min,@Green: Shenoy Nagar: Anna Nagar East: Anna Nagar Tower: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,8,0,35
+St Thomas Mount,AG-DMS,18Min,@Green: St Thomas Mount: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,8,1,35
+St Thomas Mount,Airport,12Min,@Green: St Thomas Mount: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,5,1,30
+St Thomas Mount,Alandur,3Min,@Green: St Thomas Mount: Alandur:,2,0,10
+St Thomas Mount,Anna Nagar East,24Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,11,0,45
+St Thomas Mount,Anna Nagar Tower,22Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,10,0,40
+St Thomas Mount,Arumbakkam,13Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,6,0,35
+St Thomas Mount,Ashok Nagar,8Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar:,4,0,25
+St Thomas Mount,Chennai Central,38Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,17,0,50
+St Thomas Mount,CMBT,15Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,7,0,35
+St Thomas Mount,Egmore,35Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,16,0,50
+St Thomas Mount,Ekkattuthangal,5Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal:,3,0,15
+St Thomas Mount,Guindy,5Min,@Green: St Thomas Mount: Alandur:;@Blue: Guindy:,3,1,15
+St Thomas Mount,Kilpauk Medical College,30Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,14,0,45
+St Thomas Mount,Koyambedu,17Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,8,0,40
+St Thomas Mount,Little Mount,8Min,@Green: St Thomas Mount: Alandur:;@Blue: Guindy: Little Mount:,4,1,25
+St Thomas Mount,Meenambakkam,9Min,@Green: St Thomas Mount: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,4,1,25
+St Thomas Mount,Nandanam,14Min,@Green: St Thomas Mount: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,6,1,30
+St Thomas Mount,Nanganallur Road,5Min,@Green: St Thomas Mount: Alandur:;@Blue: Nanganallur Road:,3,1,15
+St Thomas Mount,Nehru Park,32Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,15,0,50
+St Thomas Mount,Pachaiyappas College,28Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,13,0,45
+St Thomas Mount,Saidapet,11Min,@Green: St Thomas Mount: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,5,1,25
+St Thomas Mount,Shenoy Nagar,26Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,12,0,45
+St Thomas Mount,Teynampet,16Min,@Green: St Thomas Mount: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,7,1,30
+St Thomas Mount,Thirumangalam,20Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,9,0,40
+St Thomas Mount,Vadapalani,11Min,@Green: St Thomas Mount: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,5,0,30
+Teynampet,AG-DMS,2Min,@Blue: Teynampet: AG-DMS:,2,0,10
+Teynampet,Airport,24Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam: Airport:,9,0,40
+Teynampet,Alandur,14Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur:,6,0,30
+Teynampet,Anna Nagar East,35Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,15,1,50
+Teynampet,Anna Nagar Tower,33Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,14,1,50
+Teynampet,Arumbakkam,24Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam:,10,1,40
+Teynampet,Ashok Nagar,19Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar:,8,1,40
+Teynampet,Chennai Central,49Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,21,1,60
+Teynampet,CMBT,26Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT:,11,1,45
+Teynampet,Egmore,46Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,20,1,55
+Teynampet,Ekkattuthangal,16Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal:,7,1,35
+Teynampet,Guindy,11Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:,5,0,25
+Teynampet,Kilpauk Medical College,41Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,18,1,55
+Teynampet,Koyambedu,28Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu:,12,1,45
+Teynampet,Little Mount,8Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount:,4,0,15
+Teynampet,Meenambakkam,21Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road: Meenambakkam:,8,0,35
+Teynampet,Nandanam,2Min,@Blue: Teynampet: Nandanam:,2,0,10
+Teynampet,Nanganallur Road,17Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy: Alandur: Nanganallur Road:,7,0,30
+Teynampet,Nehru Park,43Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,19,1,55
+Teynampet,Pachaiyappas College,39Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,17,1,55
+Teynampet,Saidapet,5Min,@Blue: Teynampet: Nandanam: Saidapet:,3,0,15
+Teynampet,Shenoy Nagar,37Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,16,1,50
+Teynampet,St Thomas Mount,16Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: St Thomas Mount:,7,1,30
+Teynampet,Thirumangalam,31Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,13,1,45
+Teynampet,Vadapalani,22Min,@Blue: Teynampet: Nandanam: Saidapet: Little Mount: Guindy:;@Green: Alandur: Ekkattuthangal: Ashok Nagar: Vadapalani:,9,1,40
+Thirumangalam,AG-DMS,33Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,14,1,50
+Thirumangalam,Airport,27Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,11,1,45
+Thirumangalam,Alandur,17Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,8,0,40
+Thirumangalam,Anna Nagar East,4Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,3,0,10
+Thirumangalam,Anna Nagar Tower,2Min,@Green: Thirumangalam: Anna Nagar Tower:,2,0,10
+Thirumangalam,Arumbakkam,7Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam:,4,0,25
+Thirumangalam,Ashok Nagar,12Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar:,6,0,30
+Thirumangalam,Chennai Central,18Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,9,0,35
+Thirumangalam,CMBT,5Min,@Green: Thirumangalam: Koyambedu: CMBT:,3,0,15
+Thirumangalam,Egmore,15Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,8,0,30
+Thirumangalam,Ekkattuthangal,15Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal:,7,0,35
+Thirumangalam,Guindy,20Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,9,1,40
+Thirumangalam,Kilpauk Medical College,10Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,6,0,25
+Thirumangalam,Koyambedu,3Min,@Green: Thirumangalam: Koyambedu:,2,0,10
+Thirumangalam,Little Mount,23Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,10,1,40
+Thirumangalam,Meenambakkam,24Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,10,1,45
+Thirumangalam,Nandanam,29Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,12,1,45
+Thirumangalam,Nanganallur Road,20Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,9,1,40
+Thirumangalam,Nehru Park,12Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,7,0,30
+Thirumangalam,Pachaiyappas College,8Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,5,0,25
+Thirumangalam,Saidapet,26Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,11,1,45
+Thirumangalam,Shenoy Nagar,6Min,@Green: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,4,0,15
+Thirumangalam,St Thomas Mount,20Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,9,0,40
+Thirumangalam,Teynampet,31Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,13,1,45
+Thirumangalam,Vadapalani,9Min,@Green: Thirumangalam: Koyambedu: CMBT: Arumbakkam: Vadapalani:,5,0,25
+Vadapalani,AG-DMS,24Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet: AG-DMS:,10,1,40
+Vadapalani,Airport,18Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam: Airport:,7,1,40
+Vadapalani,Alandur,8Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:,4,0,25
+Vadapalani,Anna Nagar East,13Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East:,7,0,30
+Vadapalani,Anna Nagar Tower,11Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower:,6,0,30
+Vadapalani,Arumbakkam,2Min,@Green: Vadapalani: Arumbakkam:,2,0,10
+Vadapalani,Ashok Nagar,3Min,@Green: Vadapalani: Ashok Nagar:,2,0,10
+Vadapalani,Chennai Central,27Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore: Chennai Central:,13,0,45
+Vadapalani,CMBT,4Min,@Green: Vadapalani: Arumbakkam: CMBT:,3,0,15
+Vadapalani,Egmore,24Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park: Egmore:,12,0,40
+Vadapalani,Ekkattuthangal,6Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal:,3,0,25
+Vadapalani,Guindy,11Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy:,5,1,30
+Vadapalani,Kilpauk Medical College,19Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College:,10,0,40
+Vadapalani,Koyambedu,6Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu:,4,0,25
+Vadapalani,Little Mount,14Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount:,6,1,35
+Vadapalani,Meenambakkam,15Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road: Meenambakkam:,6,1,35
+Vadapalani,Nandanam,20Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam:,8,1,40
+Vadapalani,Nanganallur Road,11Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Nanganallur Road:,5,1,30
+Vadapalani,Nehru Park,21Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College: Kilpauk Medical College: Nehru Park:,11,0,40
+Vadapalani,Pachaiyappas College,17Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar: Pachaiyappas College:,9,0,40
+Vadapalani,Saidapet,17Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet:,7,1,35
+Vadapalani,Shenoy Nagar,15Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam: Anna Nagar Tower: Anna Nagar East: Shenoy Nagar:,8,0,35
+Vadapalani,St Thomas Mount,11Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur: St Thomas Mount:,5,0,30
+Vadapalani,Teynampet,22Min,@Green: Vadapalani: Ashok Nagar: Ekkattuthangal: Alandur:;@Blue: Guindy: Little Mount: Saidapet: Nandanam: Teynampet:,9,1,40
+Vadapalani,Thirumangalam,9Min,@Green: Vadapalani: Arumbakkam: CMBT: Koyambedu: Thirumangalam:,5,0,25

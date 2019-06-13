@@ -45,6 +45,7 @@ for i in range(1, len(stations) - 1):
         tr = tbody[0].find_elements_by_tag_name("tr")
         curr = ""
         for k in range(2, len(tr)):
+            dur = 0
             numst = numst + 1
             td = tr[k].find_elements_by_tag_name("td")
             svg = td[1].find_element_by_tag_name("svg")
@@ -73,8 +74,11 @@ for i in range(1, len(stations) - 1):
                     dur = dur + 60
                 dur = dur + int(tt[1])
                 duration = dur.__str__() + "Min"
+        writeFile = open("ChennaiMetroRouteInfo.csv", "w", newline='')
+        f = csv.writer(writeFile)
         f.writerow(
             [src] + [dest] + [duration] + [route] + [numst.__str__()] + [interchanges.__str__()] + [fare.strip()])
+        writeFile.close()
 
 writeFile.close()
 driver.quit()
