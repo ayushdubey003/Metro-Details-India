@@ -29,7 +29,7 @@ arr = ""
 dor = ""
 
 for i in range(0, len(stations)):
-    for j in range(0, 2):
+    for j in range(0, len(stations)):
         if i == j:
             continue
         id = id + 1
@@ -64,6 +64,6 @@ for i in range(0, len(stations)):
             id = id - 1
             print(e.__str__())
             continue
-    break
 
+writeFile.close()
 driver.quit()
