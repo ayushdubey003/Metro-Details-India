@@ -58,12 +58,13 @@ for i in range(0, len(stations)):
                 else:
                     dor = "Monday@Tuesday@Wednesday@Thursday@Friday@Saturday"
             print(id)
+            writeFile = open("ChennaiLocalRouteInfo.csv", "a", newline='')
+            f = csv.writer(writeFile)
             f.writerow([id.__str__()] + [trainNo] + [src] + [dest] + [cars] + [dept] + [arr] + ["Locals"] + [dor])
-
+            writeFile.close()
         except Exception as e:
             id = id - 1
             print(e.__str__())
             continue
 
-writeFile.close()
 driver.quit()
